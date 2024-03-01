@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev:3": "node --watch 3.express.js",
-    "dev:4": "node --watch app.js"
+    "start": "node app.js"
+ 
   },
   "keywords": [],
   "author": "",
